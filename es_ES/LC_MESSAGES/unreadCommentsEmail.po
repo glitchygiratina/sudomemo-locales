@@ -1,11 +1,11 @@
 msgid "EMAIL_SUBJECT_FORMAT"
-msgstr "[Sudomemo] %s, tienes nuevos comentarios en tus Flipnotes!"
+msgstr "¡[Sudomemo] %s, tienes nuevos comentarios en tus Flipnotes!"
 
 msgid "TITLE_NEW_COMMENTS"
 msgstr "Nuevos comentarios"
 
 msgid "HELLO_FORMAT"
-msgstr "Hola, %s!"
+msgstr "¡Hola, %s!"
 
 msgid "TEXT_YOU_HAVE_X_COMMENTS_FROM_FORMAT"
 msgstr "Tienes %d nuevo(s) comentario(s) en Sudomemo de %s"

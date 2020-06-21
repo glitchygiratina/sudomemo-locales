@@ -56,13 +56,13 @@ msgid "FLIPNOTE_ANALYTICS"
 msgstr "Accede a información analítica para tus Flipnotes"
 
 msgid "SUDOMEMO_GAME_ACCESS"
-msgstr "¡Juega a juegos especiales directamente en Sudomemo!"
+msgstr "¡Juega especialmente directo en Sudomemo!"
 
 msgid "NO_THEATRE_ADS"
-msgstr "No anuncios Sudomemo Theatre"
+msgstr "Sin anuncios en Sudomemo Theatre"
 
 msgid "INCREASED_FOLLOW_LIMIT"
-msgstr "Incrementar el numero de personas a seguir - hasta %s Creadores"
+msgstr "Incrementa el número de personas a seguir - hasta %s Creadores"
 
 # Sudomemo Plus Running Low Message
 

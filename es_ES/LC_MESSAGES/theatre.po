@@ -17,10 +17,10 @@ msgid "SUDOMEMO_SHOP_META_DESCRIPTION"
 msgstr "Tienda de Sudomemo: Mercancia de Sudomemo, tickets para Sudomemo Plus y Estrellas, y otras cosas divertidas!"
 
 msgid "DEFAULT_META_DESCRIPTION"
-msgstr "Sudomemo: Comparte tus Flipnotes con el mundo! Para Nintendo DSi y 3DS."
+msgstr "Sudomemo: ¡Comparte tus Flipnotes con el mundo! Para Nintendo DSi y 3DS."
 
 msgid "FRONTPAGE_TITLE_TAGLINE"
-msgstr "Sudomemo: Flipnote Hatena está de vuelta!"
+msgstr "Sudomemo: ¡Flipnote Hatena está de vuelta!"
 
 msgid "VIEWPAGE_COMMENT_TEXTBOX"
 msgstr "Caja de Comentarios"
@@ -110,22 +110,22 @@ msgid "FLIPNOTE_STUDIO_ID"
 msgstr "Flipnote Studio ID"
 
 msgid "GENRE"
-msgstr "Genero"
+msgstr "Género"
 
 msgid "HELP_CENTER"
 msgstr "Centro de Ayuda"
 
 msgid "HOT"
-msgstr "Hot"
+msgstr "Flipnotes Recientes"
 
 msgid "INFO"
-msgstr "Info"
+msgstr "Información"
 
 msgid "LATEST"
 msgstr "Más reciente"
 
 msgid "MODERATOR"
-msgstr "Moderator"
+msgstr "Moderador"
 
 msgid "MORE"
 msgstr "Más"
@@ -158,7 +158,7 @@ msgid "RELEASED"
 msgstr "Publicado"
 
 msgid "RANK"
-msgstr "Rango"
+msgstr "Rank"
 
 msgid "RECENT"
 msgstr "Reciente"
@@ -182,13 +182,13 @@ msgid "SIGN_IN"
 msgstr "Iniciar Sesión"
 
 msgid "SIGN_OUT"
-msgstr "Salir de Sesión"
+msgstr "Cerrar Sesión"
 
 msgid "STARS"
 msgstr "Estrellas"
 
 msgid "TITLE"
-msgstr "Titulo"
+msgstr "Título"
 
 # Referring to being the most popular (in terms of ranking)
 msgid "TOP"
@@ -320,7 +320,7 @@ msgstr "Buenas Noches"
 ### Please don't translate "Flipnoting", except to Japanese where you could probably modify the word うごメモ.
 
 msgid "WELCOME_BOX_USERNAME_HAPPY_FLIPNOTING"
-msgstr ", %s! Feliz Flipnoting!"
+msgstr ", %s! ¡Feliz Flipnoting!"
 
 msgid "WELCOME_BOX_WELCOME_TO"
 msgstr "Bienvenido a"
@@ -328,13 +328,13 @@ msgstr "Bienvenido a"
 ### Another one of our taglines 
 
 msgid "WELCOME_BOX_SHARE_CREATIVITY_TAGLINE"
-msgstr "Comparte tu creatividad con el mundo!"
+msgstr "¡Comparte tu creatividad con el mundo!"
 
 msgid "WELCOME_BOX_WHAT_IS_SUDOMEMO"
 msgstr "Sudomemo es un sitio de animaciones donde los usuarios pueden compartir sus animaciones flipbook - llamadas Flipnotes - creadas y posteadas desde Nintendo DSi y 3DS."
 
 msgid "WELCOME_BOX_HOW_TO_JOIN"
-msgstr "Aprende como unirte!"
+msgstr "¡Aprende cómo unirte!"
 
 # Give, in the same sense as "Donate"
 
@@ -350,16 +350,16 @@ msgid "RECENT_FLIPNOTES"
 msgstr "Flipnotes recientes"
 
 msgid "POPULAR_THIS_MONTH"
-msgstr "Populares este més"
+msgstr "Populares este mes"
 
 msgid "HOT_FLIPNOTES"
 msgstr "Flipnotes Populares"
 
 msgid "RANDOM_FLIPNOTES"
-msgstr "Flipnotes Random"
+msgstr "Flipnotes aleatorias"
 
 msgid "FEATURED_FLIPNOTES"
-msgstr "Flipnotes Destcadas"
+msgstr "Flipnotes Destacadas"
 
 ## Flipnote by...
 
@@ -372,7 +372,7 @@ msgid "VIEWPAGE_COMMENT_WRITE_HERE"
 msgstr "Escribe aqui"
 
 msgid "VIEWPAGE_COMMENT_POST_BUTTON"
-msgstr "Postear Comentario"
+msgstr "Publicar comentario"
 
 msgid "VIEWPAGE_ADD_MODERATOR_COMMENT"
 msgstr "Añadir comentario de moderador"
@@ -389,10 +389,10 @@ msgstr "para añadir un comentario"
 
 ### When the Post Comment button is pressed, it changes to "Posting..." and then "Posted!" when complete.
 msgid "VIEWPAGE_COMMENT_POSTING"
-msgstr "Posteando..."
+msgstr "Publicando..."
 
 msgid "VIEWPAGE_COMMENT_POSTED"
-msgstr "Posteado!"
+msgstr "¡Publicado!"
 
 ### This can happen in cases of network failure or if the comment is rejected
 msgid "VIEWPAGE_COMMENT_FAILED"
@@ -401,7 +401,7 @@ msgstr "Comentario fallido..."
 ## Right sidebar
 
 msgid "FRONTPAGE_FLIPNOTE_SPOTLIGHT"
-msgstr "Flipnotes Destacados"
+msgstr "Flipnotes destacadas"
 
 msgid "FRONTPAGE_TRENDING_CREATORS"
 msgstr "Creadores en Tendencia"
@@ -416,10 +416,10 @@ msgstr "Región"
 
 # Comprising the continents of North and South America
 msgid "REGION_AMERICAS"
-msgstr "Americas"
+msgstr "Américas"
 
 msgid "REGION_EUROPE_AND_OCEANIA"
-msgstr "Europa y Oceania"
+msgstr "Europa y Oceanía"
 
 msgid "REGION_JAPAN"
 msgstr "Japón"
@@ -432,7 +432,7 @@ msgid "SHARE_ON_FACEBOOK"
 msgstr "Compartir en Facebook"
 
 msgid "SHARE_ON_TWITTER"
-msgstr "Compartir a Twitter"
+msgstr "Compartir en Twitter"
 
 msgid "SHARE_ON_TUMBLR"
 msgstr "Compartir en Tumblr"
@@ -507,28 +507,28 @@ msgstr "Comentarios recientes"
 
 ## channels that the user posts in most often
 msgid "PROFILE_USER_POSTS_IN"
-msgstr "%s postea en..."
+msgstr "%s publica en..."
 
 # Search page
 
 msgid "SEARCH_SUDOMEMO"
-msgstr "Buscar Sudomemo"
+msgstr "Buscar en Sudomemo"
 
 msgid "SEARCH_PAGE_FORM_PLACEHOLDER"
 msgstr "Nombre de usuario, FSID, o Canal"
 
 msgid "SEARCH_PAGE_FUZZY_SEARCH_TIP"
-msgstr "Tip: Puedes buscar cosas como 'Austin' y encontrár resultados como 'ÄuらtÎn'"
+msgstr "Consejos: Puedes buscar cosas como 'Austin' y encontrár resultados como 'ÄuらtÎn'"
 
 msgid "SEARCH_PAGE_NO_RESULTS_FOUND"
 msgstr "No se encontraron resultados."
 
 msgid "SEARCH_PAGE_TOO_MANY_MATCHED"
-msgstr "Tu busqueda encaja con demasiados creadores - intenta algo más especifico."
+msgstr "Tu busqueda encaja con demasiados creadores - intenta algo más específico."
 
 ## User hasn't posted any Flipnotes yet
 msgid "SEARCH_PAGE_NO_FLIPNOTES_YET"
-msgstr "Aun sin Flipnotes..."
+msgstr "Aún sin Flipnotes..."
 
 # Edit Flipnote page
 
@@ -536,7 +536,7 @@ msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Estás editando esta Flipnote:"
 
 msgid "DESCRIPTION_WILL_GO_HERE"
-msgstr "Tu descripción irá aqui."
+msgstr "Tu descripción irá aquí."
 
 msgid "COULD_NOT_SAVE_DETAILS"
 msgstr "Los detalles no han podido ser guardados"
@@ -552,33 +552,33 @@ msgid "EDIT_PAGE_PLUS_SMOOTHING"
 msgstr "Suavizado"
 
 msgid "EDIT_PAGE_PLUS_AUDIO_ENHANCEMENT"
-msgstr "Mejoramiento de Audio"
+msgstr "Mejora de audio"
 
 msgid "EDIT_PAGE_FLIPNOTE_PREVIEW_NOTE"
-msgstr "Nota: La preview de la Flipnote no se actualiza."
+msgstr "Nota: La vista previa de la Flipnote no se actualiza."
 
 msgid "EDIT_PAGE_TITLE_AND_DESCRIPTION"
-msgstr "Titulo y Descripción"
+msgstr "Título y descripción"
 
 msgid "EDIT_PAGE_ENTER_A_TITLE"
-msgstr "Escribe un titulo"
+msgstr "Escribe un título"
 
 msgid "EDIT_PAGE_ENTER_A_DESCRIPTION"
 msgstr "Escribe una descripción"
 
 msgid "EDIT_PAGE_TITLE_TOOLTIP"
-msgstr "Letras, Numeros, y simbolos, máximo de 40 caracteres."
+msgstr "Letras, números, y símbolos, con un máximo de 40 caracteres."
 
 msgid "EDIT_PAGE_DESCRIPTION_TOOLTIP"
-msgstr "Letras, Numeros, y simbolos, máximo de 320 caracteres."
+msgstr "Letras, números, y símbolos, con un máximo de 320 caracteres."
 
 ## MusicMatch
 
 msgid "EDIT_PAGE_ABOUT_MUSICMATCH_1"
-msgstr "MusicMatch de Sudomemo escucha tu Flipnote para encontrar la musica que usa!"
+msgstr "MusicMatch de Sudomemo ¡escucha tu Flipnote para encontrar la musica que usa!"
 
 msgid "EDIT_PAGE_ABOUT_MUSICMATCH_2"
-msgstr "Algunas veces MusicMatch encontrará más de una posible canción, o escogerá la incorrecta. Si esto pasa, puedes actualizar la canción mostrada aqui."
+msgstr "Algunas veces MusicMatch encontrará más de una posible canción, o escogerá la incorrecta. Si esto pasa, puedes actualizar la canción mostrada aquí."
 
 msgid "EDIT_PAGE_ABOUT_MUSICMATCH_3"
 msgstr "Si actualizas la canción, MusicMatch aprenderá de la información para detectar canciones del audio de un Flipnote de una mejor manera en el futuro."
@@ -607,7 +607,7 @@ msgstr "Preview en Spotify"
 # Browse Song
 
 msgid "BROWSE_SONG_NO_FLIPNOTES_YET"
-msgstr "Aun no ha sido subida ninguna Flipnote con esta canción."
+msgstr "Aún no ha sido subida ninguna Flipnote con esta canción."
 
 ## Referring to a music label/publishing company
 msgid "MUSIC_LABEL"
@@ -616,7 +616,7 @@ msgstr "Etiqueta"
 # Browse Channel
 
 msgid "BROWSE_CHANNEL_NO_FLIPNOTES_YET"
-msgstr "Aun no ha sido subida ninguna Flipnote en este canal."
+msgstr "Aún no se han subido ninguna Flipnote en este canal."
 
 ## Posting permissions
 msgid "CHANNEL_PERM_CLOSED"
@@ -634,13 +634,13 @@ msgid "CHANNEL_CAT_NAME_ART"
 msgstr "Arte"
 
 msgid "CHANNEL_CAT_NAME_GENRES"
-msgstr "Generos"
+msgstr "Géneros"
 
 msgid "CHANNEL_CAT_NAME_TOPICS"
 msgstr "Temas"
 
 msgid "CHANNEL_CAT_NAME_ROLEPLAYS"
-msgstr "Roleplays"
+msgstr "Roleplay"
 
 msgid "CHANNEL_CAT_NAME_FANDOMS"
 msgstr "Fandoms"
@@ -657,10 +657,10 @@ msgstr "Tema Semanal"
 # 404 Page
 
 msgid "404_OOPS_NOT_FOUND"
-msgstr "Oops - Esa pagina no pudo ser encontrada"
+msgstr "Ups - Esa pagina no pudo ser encontrada"
 
 msgid "404_WHOOPS_NOT_THERE"
-msgstr "Whoops! Lo que sea que estuvieras buscando, no estaba ahi."
+msgstr "¡Ups! Lo que sea que estuvieras buscando, no estaba ahí."
 
 msgid "404_GO_BACK"
 msgstr "Volver a Sudomemo Theatre"
@@ -671,10 +671,10 @@ msgid "TICKETS"
 msgstr "Tickets"
 
 msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_1"
-msgstr "Tickets son items entretenidos en Sudomemo que puedes usar para ganar Estrellas, Sudomemo Plus, y otras cosas!"
+msgstr "Tickets son ítems entretenidos en Sudomemo que puedes usar para ganar Estrellas, Sudomemo Plus, y otras cosas!"
 
 msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_2"
-msgstr "Una vez que tengas un Ticket, puedes usarlo en tu Sala de Creador tocando \"Redeem\" - o, puedes mandar un codigo de ticket como regalo a un amigo!"
+msgstr "¡Una vez que tengas un Ticket, puedes usarlo en tu Sala de Creador tocando \"Redeem\" - o, puedes mandar un codigo de ticket como regalo a un amigo!"
 
 msgid "SUDOMEMO_SHOP_LEARN_ABOUT_PLUS"
 msgstr "Aprende sobre lo que puedes hacer en Sudomemo Plus:"
@@ -711,10 +711,10 @@ msgid "BROWSE_SONG_YOU_ARE_BROWSING_SONG"
 msgstr "Busca Flipnotes con la Canción %s por %s"
 
 msgid "TROPHY_CASE"
-msgstr "Trophy Case"
+msgstr "Trofeos"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
-msgstr "Untitled Flipnote by %s"
+msgstr "Flipnote sin título por %s"
 

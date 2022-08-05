@@ -16,7 +16,7 @@ msgid "TOPICS"
 msgstr "Temas"
 
 msgid "ROLEPLAYS"
-msgstr "Juegos de Rol"
+msgstr "Roleplay"
 
 msgid "FANDOMS"
 msgstr "Fandoms"
@@ -28,4 +28,4 @@ msgid "PERSONAL"
 msgstr "Personal"
 
 msgid "WEEKLY_TOPICS"
-msgstr "Temas semenales"
+msgstr "Temas semanales"

@@ -4,16 +4,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
-msgstr "Debes iniciar sesión para acceder a lista de usuarios bloqueados."
+msgstr "Debes iniciar sesión para acceder a la lista de usuarios bloqueados."
 
 msgid "NO_USERS_BLOCKED"
-msgstr "No tienes usuarios bloqueados."
+msgstr "No has bloqueado a nadie."
 
 msgid "BLOCKED_USERS"
-msgstr "Usuarios Bloqueados"
+msgstr "Usuarios bloqueados"
 
 msgid "BLOCK_USER"
-msgstr "Bloquear Usuario"
+msgstr "Bloquear usuario"
 
 msgid "COMMENT_BLOCK_IS_MUTUAL"
 msgstr "Cuando hayas bloqueado a este usuario no podrás comentar en sus Flipnotes, ni él en las tuyas."
@@ -25,7 +25,7 @@ msgid "IF_YOU_WISH_TO_UNBLOCK"
 msgstr "Si quieres desbloquear a un usuario, tendrás que quitarlo de la lista de usuarios bloqueados de tu Sala del Creador."
 
 msgid "CONFIRM_BLOCK"
-msgstr "Confirmar Bloqueo"
+msgstr "Confirmar bloqueo"
 
 msgid "USER_ALREADY_BLOCKED"
 msgstr "Ya has bloqueado a este usuario, podrás desbloquearlo en el menú de usuarios bloqueados de tu Sala del Creador, pero deberás esperar 24 horas si quieres bloquearlo de nuevo."
@@ -43,7 +43,7 @@ msgid "TAP_BACK_TO_RETURN"
 msgstr "Toca Atrás para volver a la Sala del Creador."
 
 msgid "UNBLOCK_USER"
-msgstr "Desbloquear Usuario"
+msgstr "Desbloquear usuario"
 
 msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
 msgstr "No puedes desbloquear este usuario porque no lo tienes bloqueado."
@@ -52,13 +52,13 @@ msgid "USER_HAS_BEEN_UNBLOCKED"
 msgstr "Usuario desbloqueado."
 
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
-msgstr "Después de haber desbloqueado a este usuario, el podrá comentar en tus Flipnotes nuevamente, a menos que el te tenga bloqueado también."
+msgstr "Después de haber desbloqueado a este usuario, el podrá comentar en tus Flipnotes nuevamente, a menos que te haya bloqueado también."
 
 msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
 msgstr "Si has bloqueado al usuario, tendrás que esperar 24 horas antes de poder bloquearlo de nuevo."
 
 msgid "CONFIRM_UNBLOCK"
-msgstr "Confirmar Desbloqueo"
+msgstr "Confirmar desbloqueo"
 
 msgid "RECENTLY_UNBLOCKED_ONE_DAY_THRESHOLD"
 msgstr "Has desbloqueado recientemente a este usuario, tienes que esperar 24 horas desde la hora del desbloqueo antes de que puedas bloquearlo de nuevo."

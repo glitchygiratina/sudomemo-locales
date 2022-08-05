@@ -7,7 +7,7 @@ msgid "TIMESTAMP_FORMAT"
 msgstr "M d, Y H:i:s"
 
 msgid "FLIPNOTE_TITLE_FORMAT"
-msgstr "Flipnote hecho por %s"
+msgstr "Flipnote hecha por %s"
 
 msgid "HEADER_DETAILS"
 msgstr "Detalles"
@@ -16,10 +16,10 @@ msgid "HEADER_COMMENTS"
 msgstr "Comentarios"
 
 msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
-msgstr "Esta Flipnote es un Spin-off."
+msgstr "Esta Flipnote es un spin-off."
 
 msgid "HEADER_ORIGINAL_FLIPNOTE"
-msgstr "Mira la Flipnote original aquí"
+msgstr "Mira la Flipnote original aquí."
 
 msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
 msgstr "Para evitar la mendicidad de estrellas, las estrellas amarillas estan limitadas a diez por Flipnote."
@@ -73,7 +73,7 @@ msgid "STAR_DETAILS_UPPERTITLE"
 msgstr "★ Estrellas ★"
 
 msgid "SET_TITLE"
-msgstr "Ingresar Título"
+msgstr "Ingresar título"
 
 msgid "SET_TITLE_INSTRUCTIONS"
 msgstr "Ingresa el nuevo título para tu Flipnote debajo."
@@ -88,13 +88,13 @@ msgid "ENTER_TITLE"
 msgstr "Ingresar título..."
 
 msgid "HEADER_ADD_DESCRIPTION"
-msgstr "Añadir Descripción"
+msgstr "Añadir descripción"
 
 msgid "HEADER_DESCRIPTION"
 msgstr "Descripción"
 
 msgid "SET_DESCRIPTION"
-msgstr "Establecer Descripción"
+msgstr "Establecer descripción"
 
 msgid "SET_DESCRIPTION_INSTRUCTIONS"
 msgstr "Introduce una nueva descripción para tu Flipnote debajo."
@@ -116,7 +116,7 @@ msgstr "Canción"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote sin titulo creado por %s"
+msgstr "Flipnote sin título creado por %s"
 
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
 msgstr "Subir a YouTube"

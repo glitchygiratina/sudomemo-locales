@@ -116,7 +116,7 @@ msgstr "Canción"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote sin titulo creado por %s"
+msgstr "Flipnote sin titulo creada por %s"
 
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
 msgstr "Subir a YouTube"
